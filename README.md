@@ -1,2 +1,2 @@
 # github_test
-my first github test
+my first github
